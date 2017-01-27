@@ -6,6 +6,6 @@
   "author": "Kevin Dyer",
   "license": "MIT",
   "dependencies": {
-    "socket.io": "^1.7.2"
+    "grpc": "^1.0.1"
   }
 }
